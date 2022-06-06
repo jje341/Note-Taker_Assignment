@@ -21,5 +21,6 @@
 
 ## Screenshot of Application
 ![2022-03-06 19_19_47-Note Taker](https://user-images.githubusercontent.com/17996569/156962210-dca5d6c2-7be7-4942-aaee-a53d48aafd89.png)
+![image](https://user-images.githubusercontent.com/101363899/172076797-affadbf6-ab7d-4a67-88b8-131f00bb3768.png)
 
 
